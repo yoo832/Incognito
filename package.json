@@ -21,11 +21,11 @@
   },
   "homepage": "https://github.com/titaniumnetwork-dev/Incognito#readme",
   "dependencies": {
-    "corrosion": "^1.0.0",
-    "fastify": "^3.21.0",
-    "fastify-cookie": "^6.0.0",
-    "fastify-express": "^0.3.3",
-    "fastify-formbody": "^6.0.0",
-    "fastify-static": "^6.0.0"
+    "@fastify/static": "5.0.0",
+    "@fastify/cookie": "8.3.0",
+    "corrosion": "1.0.0",
+    "fastify": "3.29.5",
+    "fastify-express": "0.3.3",
+    "fastify-formbody": "1.2.0"
   }
 }
